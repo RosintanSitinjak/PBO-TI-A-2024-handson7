@@ -14,8 +14,7 @@ public class Lingkaran extends BangunDatar{
 
     @Override
     public double hitungKeliling(){
-        public double hitungKeliling(){
             return 2 * Math.PI * jariJari;
         }
     }
-}
+
